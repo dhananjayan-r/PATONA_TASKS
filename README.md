@@ -2,7 +2,6 @@
 
 ## Table of Content
   * [Overview](#overview)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
 
@@ -24,13 +23,9 @@ Complete the python function to get the output of below cases :
 3) case 3: n= 3, v = 356 (Note: 356 is derived as 1+22+333)
 4) case 4: n= 4, v = 4800 (Note: 356 is derived as 1+22+333+4444)
 
-def mystery(n)
- (code here)
-return v
-
-
-## Bug / Feature Request
-If you find a bug , kindly open an issue [here](https://github.com/dhananjayan-r/Linkedin_scarper/issues) by including your search query and the expected result.
+1)def mystery(n)
+ 2)(code here)
+3)return v
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)

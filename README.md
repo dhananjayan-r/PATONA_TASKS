@@ -7,8 +7,8 @@
   * [Team](#team)
 
 ## Overview(task assigned)
-Problem Statement 1:
-# Write a python code using web scraping method for creating a list of
+# Problem Statement 1:
+Write a python code using web scraping method for creating a list of
 1) Name of Diseases,
 2) URLs associated with diseases and,
 3) Icon images of diseases.
@@ -17,7 +17,7 @@ Create the folder using python commands to save the icon images.
 URL of webpage: Dermnrtnz.org
 Use selenium libraries
 
-Problem Statement 2:
+# Problem Statement 2:
 Complete the python function to get the output of below cases :
 i) case 1: n = 1, v = 1
 ii) case 2: n= 2, v = 23 (Note: 23 is derived as 1 + 22)
@@ -32,8 +32,6 @@ return v
 
 ## Bug / Feature Request
 If you find a bug , kindly open an issue [here](https://github.com/dhananjayan-r/Linkedin_scarper/issues) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dhananjayan-r/Linkedin_scarper/issues). Please include sample queries and their corresponding results.
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)

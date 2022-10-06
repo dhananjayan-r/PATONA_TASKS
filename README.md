@@ -23,9 +23,9 @@ Complete the python function to get the output of below cases :
 3) case 3: n= 3, v = 356 (Note: 356 is derived as 1+22+333)
 4) case 4: n= 4, v = 4800 (Note: 356 is derived as 1+22+333+4444)
 
-1)def mystery(n)
- 2)(code here)
-3)return v
+5)def mystery(n)
+ 6)(code here)
+7)return v
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
